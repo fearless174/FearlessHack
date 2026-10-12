@@ -1,0 +1,5 @@
+pymem==1.13.1
+pywin32==306
+pystray==0.19.5
+Pillow==10.4.0
+pyinstaller==6.10.0
