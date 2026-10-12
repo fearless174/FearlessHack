@@ -55,7 +55,7 @@
 
 ### Вариант 1: `.exe` (проще)
 
-1. Скачай `CS2_Memory_Aimbot.exe` из [Releases](../../releases)
+1. Скачай `fearlesshack.exe` из [Releases](../../releases)
 2. Запусти `.exe`
 3. Запусти CS2
 4. Чит подхватится сам
